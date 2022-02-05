@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Daniel's personal website"
 title_separator          : "-"
 name                     : &name "Daniel Soto"
-description              : &description "Sociologist"
+description              : &description "Sociologist learning to code"
 url                      : https://DanielSotoHurtado.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DanielSotoHurtado/DanielSotoHurtado.github.io"
