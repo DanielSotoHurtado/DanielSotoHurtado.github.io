@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Webscraping Peru's 2021 electoral results"
+excerpt: "[Script](https://github.com/alexanderquispe/Diplomado_PUCP/blob/main/Lecture_7/Assignment_4/group_3_ass_4.ipynb): We use Selenium to scrape ONPE's webpage<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Using Selenium we scraped Peru's 2021 presidential election results for all continents, countrys and estates when election were realized. We saved all results in a single table.
+[Script in Python](https://github.com/alexanderquispe/Diplomado_PUCP/blob/main/Lecture_7/Assignment_4/group_3_ass_4.ipynb)
