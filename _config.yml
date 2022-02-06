@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel's personal website"
+title                    : "Daniel Soto"
 title_separator          : "-"
 name                     : &name "Daniel Soto"
 description              : &description "Sociologist learning to code"
