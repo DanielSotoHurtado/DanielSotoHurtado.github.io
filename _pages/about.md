@@ -20,7 +20,7 @@ me <- list(
   name = "Soto",
   first_name = "Daniel",
   occupation = "Sociologist",
-  favorite_programming_languages = "R and Python",
+  favorite_programming_languages = c("R", "Python"),
   Personal_website = "https://danielsotohurtado.github.io/"
   blog = "https://danielsotohurtado.github.io/year-archive/"
 )
