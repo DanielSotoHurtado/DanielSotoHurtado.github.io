@@ -4,5 +4,5 @@ excerpt: "[Script](https://github.com/alexanderquispe/Diplomado_PUCP/blob/main/L
 collection: portfolio
 ---
 
-Using Selenium we scraped Peru's 2021 presidential election results for all continents, countrys and estates when election were realized. We saved all results in a single table.
+Using Selenium we scraped Peru's 2021 presidential election results all around the world - for all continents, countries and states - where voting occured. We saved all results in a single table.
 [Script in Python](https://github.com/alexanderquispe/Diplomado_PUCP/blob/main/Lecture_7/Assignment_4/group_3_ass_4.ipynb)
