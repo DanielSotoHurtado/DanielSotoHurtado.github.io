@@ -13,7 +13,7 @@ I'm currently a student of the [Diplomado en Ciencias de Datos para Ciencias Soc
 I'm interested in social movement research, cultural sociology, socio-economic development and inequalities.
 
 Some facts about myself:
-======
+----
 
 ```
 me <- list(
