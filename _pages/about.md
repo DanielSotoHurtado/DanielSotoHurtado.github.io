@@ -10,7 +10,9 @@ redirect_from:
 
 I'm a BSocSc from [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/) (PUCP). 
 I'm currently a student of Data Science at [QLAB's Data Science for Social Research Track](https://github.com/alexanderquispe/Diplomado_PUCP) with professors [Alexander Quispe](https://alexanderquispe.github.io/) and [Anzony Quispe](https://github.com/anzonyquispe) in the same university.
-I'm interested in cultural and economic sociology, social networks and inequalities.
+I have a deep interest in social theory and causality, cultural and economic sociology, social networks and inequalities.
+
+
 
 Some facts about myself:
 ----
